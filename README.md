@@ -67,6 +67,6 @@ venv\Scripts\activate      # On Windows
 ## 🤝 Contributing
  **Contributions are welcome! Feel free to fork the repo, create a new branch, and submit a pull request.**
 
-## 📜 License**
+## 📜 License
 
 This project is licensed under the MIT License.
